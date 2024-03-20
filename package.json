@@ -1,0 +1,17 @@
+{
+  "name": "telegram-simple-bot-js",
+  "version": "0.0.1",
+  "description": "",  
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "LICENSE"
+  ],"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
